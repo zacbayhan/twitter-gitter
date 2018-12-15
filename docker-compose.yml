@@ -37,7 +37,7 @@ services:
       - CONSUMER_SECRET=${C_SEC}
       - OAUTH_TOKEN=${O_TOKEN}
       - OAUTH_TOKEN_SECRET=${O_TOKEN_SEC}
-      - KEY_WORDS=trump
+      - KEY_WORDS=${KEY_WORD}
     ports:
       - 9600:9600
       - 5044:5044
