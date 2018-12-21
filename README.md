@@ -6,4 +6,8 @@
 * add your creds to the required fields
 * then run your docker-compose up command
 
-now you should be listening to the twitter stream 
+
+
+
+
+now you should be listening for keywords in the twitter stream 
